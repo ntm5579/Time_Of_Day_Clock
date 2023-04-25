@@ -1,6 +1,6 @@
 # Time_Of_Day_Clock
 
-A 12h Clock that displays the time of day on a Basys3 FPGA.
+A 12h Clock that displays the time of day on a Basys3 FPGA made using SystemVerilog.
 
 Uses the switches to preset the time with 4 binary decimals. 
 *  Switches 0 to 3 (```sw[3:0]```) set the 0's digit of the minutes
